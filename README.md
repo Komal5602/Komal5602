@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komal5602" alt="komal5602" /></a> </p>
 
-- 🔭 I’m currently working on **Event Management System**
+- 🔭 I’m currently working on **AI Avatar Generator**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPTand Machine Learning**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA and Python**
 
 - 📫 How to reach me **komalsr50@gmail.com**
 
